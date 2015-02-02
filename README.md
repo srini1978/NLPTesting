@@ -8,3 +8,8 @@ For holding all code snippets related to natural language processing
 3.Install NLTK: http://pypi.python.org/pypi/nltk
 4.Test installation: Start>Python34, then type import nltk
 
+## How to run the sentiment analysis code
+1. Open the Python IDLE IDE
+2. Copy and paste the code from github
+3. Hit F5 from the IDE
+
